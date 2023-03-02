@@ -66,4 +66,4 @@ IMUセンサであるMPU6050を利用する為のドライバライブラリで�
 
 ## Special Thanks
 
-パワーマネジメントにMichael Wei氏のPowerControlライブラリを使用しています．謝謝茄子！！
+パワーマネジメントにMichael Wei氏のPowerControlライブラリを使用しています．
